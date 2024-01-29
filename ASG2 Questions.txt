@@ -1,0 +1,23 @@
+change hover info for dashboard 2 english speaking bar chart
+plot the map visuals into the dashboard
+plt the tree map to the 3rd dashboard if it doesnt work, use stacked bar chart
+
+
+Dashboard 1-General Dashboard
+Trends in no. of tourist
+Number of tourists who used each mode of travel
+Number of tourists who came for each purpose_group
+
+Dashboard 2-Liesure Dashboard
+
+attraction map/ top 5 hotels
+
+Dashboard 3-Promoting company dashboard
+
+Composition of people who purchased each type of package
+no. of tourist from each city
+no. of tourist from each terminal
+
+
+
+ 
